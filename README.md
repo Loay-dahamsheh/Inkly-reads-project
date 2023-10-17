@@ -17,3 +17,6 @@ The InklyReads project is maintained by the following team members:
 ## Wireframes And Mockup
 You can access the initial Wireframes And Mockup of the website's user interface through the following link:
 - [Wireframes And Mockup](https://www.figma.com/files/team/1293940548713197907/InklyReads-Project?fuid=1283776208877744502)
+
+##Organization Link on github
+- [Organization](https://github.com/InklyReads/InklyReads)
